@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74323524156",
+    "project_id": "royal-member",
+    "storage_bucket": "royal-member.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74323524156:android:fec5548a1901416d2ce139",
+        "android_client_info": {
+          "package_name": "com.example.funfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74323524156-b2qni0d0d6qm7k3d8ub7s7890gogpnk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa9AdoaJFlqmZUMLipvXNAO_r-_mC9CS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74323524156-b2qni0d0d6qm7k3d8ub7s7890gogpnk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
